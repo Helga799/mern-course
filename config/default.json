@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://helga:uKPA0eFTNqQO6zJc@cluster0-esdmk.mongodb.net/test?retryWrites=true&w=majority",
+  "secret": "hubibobo8ybouhbnouihbnoiubouhbuhbiuhbiuhbiuhbiubiubiubiubuihb",
+  "baseUrl": "http://localhost:5000"
+}
